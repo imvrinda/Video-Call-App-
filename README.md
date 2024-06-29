@@ -18,7 +18,6 @@ Welcome to VideoCaller, your go-to app for seamless video communication and coll
 4. Run the app
 5. Start video calling!
 
-For detailed instructions, check out our [step-by-step video tutorial](#).
 
 ## 💡 How It Works
 
@@ -30,10 +29,10 @@ For detailed instructions, check out our [step-by-step video tutorial](#).
 
 ## 🛠️ Technologies Used
 
-- Frontend: [Tech Stack]
-- Backend: [Tech Stack]
-- Video API: [API Name]
-- Database: [Database Name]
+- Frontend: HTML, CSS, Angular 17
+- Backend: Java
+- Video API: 
+- Database: 
 
 
 I welcome contributions!
